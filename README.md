@@ -26,13 +26,11 @@ web exploitation · privilege escalation · active directory
 
 ## ⭐ Featured projects
 
-<!-- Quando tiveres projetos, substitui a linha abaixo por uma tabela:
 | Project | What it does | Stack |
 |---|---|---|
-| [**nome**](https://github.com/VuradoUA/nome) | Uma frase sobre o projeto | `Python` |
--->
+| [**quantumtrace**](https://github.com/VuradoUA/quantumtrace) | Post-quantum readiness scanner: finds vulnerable crypto in PCAPs, code, certs and configs, scores the risk and builds a migration roadmap. Built at JunctionX Lisbon. | `Python` `tree-sitter` `Streamlit` |
 
-First projects are in progress. Follow along here or on [my portfolio](https://vserhiychyk.com).
+<sub>More projects in progress. Full list on [my portfolio](https://vserhiychyk.com).</sub>
 
 ## 🧰 Toolbox
 
