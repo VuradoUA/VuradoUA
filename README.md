@@ -1,8 +1,10 @@
-# Hi, I'm Vladyslav 👋
+### Hi, I'm Vladyslav
 
-**Final-year Computer Science & Engineering student (LEI @ FCT NOVA), training for offensive security.**
+I break things to understand how they work, and I'm building towards a career in **offensive security**: pentesting and red team.
 
-I spend my free time on hands-on security: TryHackMe labs, building tools from scratch and writing up what I learn. I'm looking for my **first role in pentesting or red team**.
+BSc Computer Science & Engineering @ **NOVA FCT** · Vice-President, NOVA FCT Computer Science Society · University **CTF team** · preparing for **PT1**
+
+[vserhiychyk.com](https://vserhiychyk.com) (portfolio and write-ups) · [LinkedIn](https://www.linkedin.com/in/vladyslav-serhiychyk-105598334/) · [TryHackMe](https://tryhackme.com/p/Vurado)
 
 ```console
 $ whoami
@@ -11,32 +13,27 @@ $ cat focus.txt
 web exploitation · privilege escalation · active directory
 ```
 
-🌐 **Portfolio:** [vserhiychyk.com](https://vserhiychyk.com)
-💼 **LinkedIn:** [vladyslav-serhiychyk](https://www.linkedin.com/in/vladyslav-serhiychyk-105598334/)
-🎯 **TryHackMe:** [Vurado](https://tryhackme.com/p/Vurado)
-📫 **Email:** vladyslav.business.only@gmail.com
-
 ---
 
-## 🔐 What I'm working on
+#### Selected work
 
-- 🛠️ Building a series of offensive security projects, from fundamentals to advanced
-- 🎯 Working through the TryHackMe learning paths
-- ✍️ Publishing project write-ups on [vserhiychyk.com](https://vserhiychyk.com)
-
-## ⭐ Featured projects
-
-| Project | What it does | Stack |
+| Project | What it is | Result |
 |---|---|---|
-| [**quantumtrace**](https://github.com/VuradoUA/quantumtrace) | Post-quantum readiness scanner: finds vulnerable crypto in PCAPs, code, certs and configs, scores the risk and builds a migration roadmap. Built at JunctionX Lisbon. | `Python` `tree-sitter` `Streamlit` |
+| [**quantumtrace**](https://github.com/VuradoUA/quantumtrace) | Post-quantum readiness scanner. Finds quantum-vulnerable crypto in PCAPs, source code, certificates and configs without probing the live system, then ranks what to migrate first. | JunctionX Lisbon · CycloneDX 1.6 CBOM mapped to NIST FIPS 203/204/205 · flagged 136 of 183 starter-kit assets as critical |
+| [**vserhiychyk.com**](https://vserhiychyk.com) | My portfolio, styled as an nmap scan report about me, with a working shell in the browser. Plain HTML, CSS and JS. | Custom domain over HTTPS, verified against domain takeover |
 
-<sub>More projects in progress. Full list on [my portfolio](https://vserhiychyk.com).</sub>
+#### Offensive security
 
-## 🧰 Toolbox
+I train on TryHackMe Premium and compete in CTFs with the NOVA FCT team, mentored by a faculty member who specialises in security. Next up is a series of tools built from scratch, from network scanners to privilege escalation, each with a write-up.
 
-**Comfortable with:** Linux · Bash · Networking (TCP/IP, DNS, HTTP) · Python · Java · C · Git
-**Learning now:** Web exploitation (OWASP Top 10, Burp Suite) · Privilege escalation · Active Directory
+#### Beyond code
 
-## 📈 TryHackMe
+I co-lead the NOVA FCT Computer Science Society and run its company partnerships, worked as NTT DATA's student ambassador on campus, and build electronics and microcontroller projects at IN-NOVA, the faculty's junior consultancy.
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Vurado.png)](https://tryhackme.com/p/Vurado)
+#### Stack
+
+**Code:** Python · C · Java · OCaml · Assembly · SQL · JavaScript
+**Security & systems:** Linux · Bash · TCP/IP, DNS, HTTP · Wireshark/tshark · Docker · Git
+**Learning now:** web exploitation (OWASP Top 10, Burp Suite) · privilege escalation · Active Directory
+
+Open to pentesting and security internships: vladyslav.business.only@gmail.com
